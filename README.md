@@ -1,12 +1,12 @@
 ### Hi there 👋
-***
+
 My name is François Toureille, I am 18 and I study Computer Sciences in Aix en Provence.
-_________________
-###Objectives
+***
+### Objectives
 I want to discover many programming languages but the most important for me is the understanding of algorithmic concepts.
-###My work
+### My work
 Now, My group of project began the conception of a data base with sql developper, we try to understand the algorithm of PageRank
-###Hobbies
+### Hobbies
 I love playing and watching soccer, I read and sell mangas, my favourite manga is GTO because it's very comic.
 <!--
 **FrancoisToureille/FrancoisToureille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
