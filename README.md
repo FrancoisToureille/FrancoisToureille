@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is François Toureille, I am 18 and I study Computer Sciences in Aix en Provence
 <!--
 **FrancoisToureille/FrancoisToureille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
