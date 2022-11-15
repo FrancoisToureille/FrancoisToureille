@@ -1,5 +1,5 @@
 ### Ami du soir bonsoir 👋
-![image](![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.retrocrush.tv%2Fseries%2F007960s%2Fgreat-teacher-onizuka&psig=AOvVaw2kKr5mUjRx97WzvAwZTjls&ust=1668592698473000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjPwar2r_sCFQAAAAAdAAAAABAM)
+![image](![image](https://static-ottera.com/prod/dmr/show/banners/gto-banner2.jpg)
 )
 
 My name is François Toureille, I am 18 and I study Computer Sciences in Aix en Provence.
