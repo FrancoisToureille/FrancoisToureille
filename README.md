@@ -1,5 +1,5 @@
 ### Ami du soir bonsoir 👋
-(![image](https://static-ottera.com/prod/dmr/show/banners/gto-banner2.jpg)
+![image](https://i.pinimg.com/originals/0c/0d/f0/0c0df0349e5be00d3c5cd247de109a92.jpg)
 
 
 My name is François Toureille, I am 18 and I study Computer Sciences in Aix en Provence.
